@@ -15,3 +15,4 @@ Run each segment of code to divide map segments and store it in the tree.
 2. Divide the maps up for every vertex (Trapezoidal Composition) and store a tuple (Region lines, region names) that will be used as leaf nodes for the segment tree
 3. Create the segment tree
 
+<img width="650" alt="Screenshot 2023-10-15 at 17 26 23" src="https://github.com/ronantakizawa/mapsegmentation/assets/71115970/adc5d456-ae30-43ba-9bc8-5ee8e02507f2">
