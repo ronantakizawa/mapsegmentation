@@ -13,6 +13,9 @@ Read this for more info:
 https://cs.brown.edu/courses/cs252/misc/resources/lectures/pdf/notes03.pdf
 https://cs.brown.edu/courses/cs252/misc/resources/lectures/pdf/notes04.pdf
 
+Look through our presentation slides to understand the code:
+https://docs.google.com/presentation/d/1gbBayoZ2YS1NsZJN58_M3rpg1p67I5TYJzEgElnVsLE/edit?usp=sharing
+
 Installation
 
 -      pip install -r requirements.txt
